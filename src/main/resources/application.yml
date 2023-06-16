@@ -1,0 +1,4 @@
+fwk:
+  redisson:
+    post: localhost
+    port: 6379
